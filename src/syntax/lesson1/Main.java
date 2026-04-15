@@ -1,4 +1,4 @@
-package syntax;
+package syntax.lesson1;
 
 //это класс main
 public class Main {
