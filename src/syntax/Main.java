@@ -1,3 +1,5 @@
+package syntax;
+
 //это класс main
 public class Main {
     //этот метод, это точка входа в программу
