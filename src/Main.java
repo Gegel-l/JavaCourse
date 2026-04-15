@@ -6,6 +6,6 @@ public class Main {
         * эта инструкция выводит
         * строку с моим именем
         */
-        System.out.println("My name is Vlad!!!");
+        System.out.println("My name is Vlad!!!!");
     }
 }
